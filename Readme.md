@@ -1,3 +1,3 @@
 This is the readme file 
 
-README.md file was just edited manually. This file was modfied locally
+This line was modified manually during conflicts resolution
